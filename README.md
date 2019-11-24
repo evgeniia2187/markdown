@@ -79,3 +79,5 @@ All info in the repository.
 https://sft.space/ - scroll to tthe bottom of the page – Feedback/Обратная связь  
 
 evgenija.grigoreva@gmail.com 
+
+Distributed under license Apache 2.0. Copyright SFT - Search For Truth
