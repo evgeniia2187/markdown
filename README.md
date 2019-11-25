@@ -4,7 +4,7 @@
 # SFT - Search For Truth
 ## Discussion platform
 
-July 20th 1969 was „one giant leap for mankind”. No doubt about that! Question is: which field has benefited from that leap? Was it a breakthrough in the space technology? Stardust, romance, exploration, pioneer spirit, glamour of the unknown... Or was it agiant leap for the cinema? The dark seductive art of deception, of perfect illusion, of erecting an invisible city which real people are capable to live in, or riding an invisible dragon capable of burning this very city to the ground...So which one was it? Where did this leap occur: in a Hollywood studio or 384 400 km away from it?
+July 20th 1969, was „one giant leap for mankind”. No doubt about that! Question is: which field has benefited from that leap? Was it a breakthrough in the space technology? Stardust, romance, exploration, pioneer spirit, glamour of the unknown... Or was it a giant leap for the cinema? The dark seductive art of deception, of perfect illusion, of erecting an invisible city which real people are capable to live in, or riding an invisible dragon capable of burning this very city to the ground...So which one was it? Where did this leap occur: in a Hollywood studio or 384 400 km away from it?
 ***
 
 
@@ -12,9 +12,9 @@ July 20th 1969 was „one giant leap for mankind”. No doubt about that! Questi
 
 ***
 
-We will probably never know the answer for sure. Yet we still can move towards this one and only correct answer. We can gain „the medical history“ of the case, conduct a “consultation” and establish a “diagnosis”. What are the “magic ingredients”? Firstly: veracious and reliable sources of information. Secondly: well-argued opinions of the specialists in the field which is being discussed –from Monday morning quarterbacks to thePHds in physics, from a person who only saw a rocket at a Disneyland rollercoaster to Neil Armstrong in the flesh.  
+We will probably never know the answer for sure. Yet we still can move towards this one and only correct answer. We can gain „the medical history“ of the case, conduct a “consultation” and establish a “diagnosis”. What are the “magic ingredients”? Firstly: veracious and reliable sources of information. Secondly: well-argued opinions of the specialists in the field which is being discussed – from Monday morning quarterbacks to the PHds in physics, from a person who only saw a rocket at a Disneyland rollercoaster to Neil Armstrong himself.  
 
-Search For Truth has the one and only goal: to bring all these people together in a much more comfortable and friendly environment than a conventional forum or chat room. This platform is built as a place for educated discussions based on well-grounded arguments, sufficient proof and a multilevel evaluation of each argument. One of the vital points is a fine division into aspects (for instance, discussing the cinematographic aspect of moon landing, you will not be able to come up with an argument from the field of physics). 
+**Search For Truth** has the one and only goal: to bring all these people together in a much more comfortable and friendly environment than a conventional forum or chat room. This platform is built as a place for educated discussions based on well-grounded arguments, sufficient proof and a multilevel evaluation of each argument. One of the vital points is a fine division into aspects (for instance, discussing the cinematographic aspect of moon landing, you will not be able to come up with an argument from the field of physics). 
 
 
 ***
@@ -45,7 +45,7 @@ When you open a discussion of your choice, a window opens which contains:
 
 * A button to add your own argument  
 ---
-3. **You can evaluate the arguments of other users using the two-dimensional coordinate system (reliability-persuasiveness), makes it possible to visualize the “weight” of these arguments**
+3. **You can evaluate the arguments of other users using the two-dimensional coordinate system (veracity-persuasiveness), makes it possible to visualize the “weight” of these arguments**
 ---
 4. **A user-friendly interface. You can see:**
 
@@ -82,4 +82,4 @@ https://sft.space/ - scroll to tthe bottom of the page – Feedback/Обратн
 
 evgenija.grigoreva@gmail.com 
 
-Distributed under license Apache 2.0. Copyright SFT - Search For Truth
+Distributed under the license Apache 2.0. Copyright SFT - Search For Truth
