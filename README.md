@@ -4,7 +4,7 @@
 # SFT - Search For Truth
 ## Discussion platform
 
-July 20th 1969, was „one giant leap for mankind”. No doubt about that! Question is: which field has benefited from that leap? Was it a breakthrough in the space technology? Stardust, romance, exploration, pioneer spirit, glamour of the unknown... Or was it a giant leap for the cinema? The dark seductive art of deception, of perfect illusion, of erecting an invisible city which real people are capable to live in, or riding an invisible dragon capable of burning this very city to the ground...So which one was it? Where did this leap occur: in a Hollywood studio or 384 400 km away from it?
+July 20th 1969, was „one giant leap for mankind”. No doubt about that! Question is: which field has benefited from that leap? Was it a breakthrough in the space technology? Stardust, romance, exploration, pioneer spirit, glamour of the unknown... Or was it a giant leap for the cinema? The dark seductive art of deception, of perfect illusion, of erecting an invisible city which real people are capable to live in, or riding an invisible dragon capable of burning this very city to the ground... So which one was it? Where did this leap occur: in a Hollywood studio or 384 400 km away from it?
 ***
 
 
@@ -34,20 +34,20 @@ When you click on the "add discussion" button, a window opens with the fields: 
 
 * Buttons „TRUE/FALSE“ to choose your position in the argument.  
 ---
-2. **Participate (Take part) in discussion**  
+2. **Take part in discussion**  
 When you open a discussion of your choice, a window opens which contains:  
 
 * Title of discussion 
 
 * An instrument (currently symbolical „connecting vessels“ – see the picture), which shows the exact balance between TRUE and FALSE.  
 
-* All aspects related to the particular discussion (choosing only one aspect, you will see only arguments related to this aspect)  
+* All aspects related to the particular discussion (choosing only one aspect, will let you see only arguments related to this aspect)  
 
 * A button to add your own argument  
 ---
-3. **You can evaluate the arguments of other users using the two-dimensional coordinate system (veracity-persuasiveness), makes it possible to visualize the “weight” of these arguments**
+3. **You can evaluate the arguments of other users using the two-dimensional coordinate system (veracity-persuasiveness), which makes it possible to visualize the “weight” of these arguments**
 ---
-4. **A user-friendly interface. You can see:**
+4. **A user-friendly interface. Currently you can see:**
 
 * Most popular discussions;  
 
